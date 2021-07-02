@@ -20,3 +20,8 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'm not sure if my constructors are setup cleanly...
 ```
+Details
+- git clone https://github.com/Shimanti/100devs-simple-api.git
+- git branch answer
+- git checkout answer
+- git push --set-upstream origin answer
